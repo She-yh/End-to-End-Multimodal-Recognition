@@ -8,6 +8,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:She-yh/End-to-End-Multimodal-Recognition.git main:gh-pages
+git push -f git@github.com:She-yh/End-to-End-Multimodal-Recognition.git master:gh-pages
 
 cd -f

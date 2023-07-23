@@ -1,24 +1,4 @@
-# sentiment-analysis
+# Frontend End-to-End Multimodal Recognition System
+点击这里查看[Demo](https://she-yh.github.io/End-to-End-Multimodal-Recognition/) 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+需要说明的是，这只是前端部分的代码，整个系统还需要后端支持，所以Demo中大部分功能无法实现。
